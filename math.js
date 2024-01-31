@@ -10,8 +10,8 @@
  * 5.More operation %, []
  * 6.percentage: 5%, 50 taka er 10% koto?
  * 7.Sum:14, 18, 16
- * 8.avg: 14, 18, 16
- * 9.Max/Min: 14, 18, 16
+ * 8.avg: 14, 18, 16 SB guls + kore jeita hobe
+ * 9.Max/Min: 14, 18, 16  sb theke boro r sb theke choto
  * 10.Series:
  * 11.Area: Triangle
  * 12: **jodi lage likhe nibo sathe sathe youtube dekhe dekhe but bose thaka jabe na, kanna kati korar theke chat gpt te bollei all problem solve hoye jabe**

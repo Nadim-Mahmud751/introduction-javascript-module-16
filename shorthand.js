@@ -12,5 +12,7 @@ console.log(fridge);
 
 // multiply
 var orangePrice = 30;
+// var orangePrice = orangePrice * 30;
 orangePrice *= 3;
 console.log(orangePrice);
+

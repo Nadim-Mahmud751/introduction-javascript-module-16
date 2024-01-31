@@ -8,6 +8,8 @@ var isRich =true;
 var passed =false;
 console.log(typeof passed);
 console.log(typeof country);
+
+// number
 var age= 20;
 console.log(typeof age);
 
