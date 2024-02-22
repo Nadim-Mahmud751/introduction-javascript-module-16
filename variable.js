@@ -18,3 +18,6 @@ console.log(price);
 var age=17;
 age =20.5;
 console.log(age);
+
+
+
