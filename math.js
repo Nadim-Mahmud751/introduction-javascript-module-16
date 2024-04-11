@@ -14,5 +14,5 @@
  * 9.Max/Min: 14, 18, 16  sb theke boro r sb theke choto
  * 10.Series:
  * 11.Area: Triangle
- * 12: **jodi lage likhe nibo sathe sathe youtube dekhe dekhe but bose thaka jabe na, kanna kati korar theke chat gpt te bollei all problem solve hoye jabe**
+ * 12: **jodi lage sikhe nibo sathe sathe youtube dekhe dekhe but bose thaka jabe na, kanna kati korar theke chat gpt te bollei all problem solve hoye jabe**
  */ 
